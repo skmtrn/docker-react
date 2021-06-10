@@ -3,7 +3,7 @@ Yo, why all the REACT brag? It's flack.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-
+I know what I can run. Imma vim master, you are a total disaster.
 In the project directory, you can run:
 
 ### `npm start`
